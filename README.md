@@ -35,6 +35,10 @@ hi, i'm Javier Abollado, .......................................................
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+[![My Skills](https://skills.thijs.gg/icons?i=py,git,cpp,c)](https://skills.thijs.gg)
+
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -59,7 +63,12 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&theme=gotham" alt="Javier Abollado" />
+<p align="center"> </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&theme=gotham" alt="Javier Abollado" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JavierAM01&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
