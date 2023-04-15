@@ -13,7 +13,6 @@
   <img align="left" alt="Javier's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
 <br />
 
 hi, i'm Javier Abollado, ........................................................................................................................................
@@ -28,15 +27,31 @@ hi, i'm Javier Abollado, .......................................................
 - 💼 any freelance work? do reach, [email](mailto:javierabollado@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**LENGUAGES AND TOOLS:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**LENGUAGES AND TOOLS:** 
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,git,cpp,c)](https://github.com/JavierAM01)
+
+**SOCIAL MEDIA:**
+
+<a href="https://github.com/gauravghongde/social-icons/">
+<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></img>
+</a>
+
+<a href="https://github.com/gauravghongde/social-icons/">
+<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></img>
+</a>
+
+<a href="https://github.com/gauravghongde/social-icons/">
+<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></img>
+</a>
+
 
 
 
