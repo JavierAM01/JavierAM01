@@ -53,13 +53,11 @@ hi, i'm Javier Abollado, .......................................................
 
 <p align="center"> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&theme=gotham" alt="Javier Abollado" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JavierAM01&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Javier's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Javier's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Javier's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=gotham&hide_border=true" /></a> |
+| ------------- | ------------- |
 
