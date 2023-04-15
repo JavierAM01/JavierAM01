@@ -41,17 +41,10 @@ hi, i'm Javier Abollado, .......................................................
 **SOCIAL MEDIA:**
 
 <a href="https://github.com/gauravghongde/social-icons/">
-<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></img>
+  <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
+  <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
+  <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
-
-<a href="https://github.com/gauravghongde/social-icons/">
-<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></img>
-</a>
-
-<a href="https://github.com/gauravghongde/social-icons/">
-<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></img>
-</a>
-
 
 
 
@@ -69,10 +62,25 @@ hi, i'm Javier Abollado, .......................................................
 <p align="center"> </p>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Javier's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=vue-dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+**Theme vue-dark:**
+
+<div>
+  <img style="float:left; margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Javier's github stats" />      
+  <img style="float:right; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=vue-dark&hide_border=true" />
+</div>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Javier's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=gotham&hide_border=true" /></a> |
-| ------------- | ------------- |
+**Theme gotham:**
+
+<div>
+  <img style="float:left; margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Javier's github stats" />      
+  <img style="float:right; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=gotham&hide_border=true" />
+</div>
+
+
+
+
+
+
+
 
