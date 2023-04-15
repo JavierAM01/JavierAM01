@@ -39,25 +39,13 @@ hi, i'm Javier Abollado, .......................................................
 [![My Skills](https://skills.thijs.gg/icons?i=py,git,cpp,c)](https://github.com/JavierAM01)
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   13 hrs 40 mins  █████████████████████▒░░░   85.28 %
-JavaScript   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-EJS          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-```
-
-<!--END_SECTION:waka-->
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆             
+🌸             
+✅             
+⏳  
 <!-- TODO-IST:END -->
 
 
