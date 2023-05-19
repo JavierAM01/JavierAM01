@@ -1,6 +1,6 @@
 # ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
 
-  <img align="right" alt="GIF" src="code.gif?raw=true" width="600" height="400" />
+  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
 
 ## Sobre mí
 
