@@ -1,87 +1,45 @@
-# ¡Hola, bienvenido a mi perfil de GitHub! 👋
+# ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
 
-  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="code.gif?raw=true" width="600" height="400" />
 
 ## Sobre mí
+
 - Estudiante de matemáticas en la UCM.
 - Apasionado por las matemáticas, la computación y la ciencia de datos.
 - Buscando oportunidades emocionantes para aplicar mi pasión por la programación y el análisis de datos.
 
-## Redes sociales
+## Lenguajes
 
-<a href="https://github.com/gauravghongde/social-icons/">
-  <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
-  <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
-  <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
-</a>
+[![My Skills](https://skills.thijs.gg/icons?i=py,git,cpp,c,matlab,haskell)](https://github.com/JavierAM01)
 
-## Lenguajes y Herramientas
-
-[![My Skills](https://skills.thijs.gg/icons?i=py,git,cpp,c)](https://github.com/JavierAM01)
-
-## Habilidades y Lenguajes
+## Habilidades
 - **Habilidades:** Análisis de datos, resolución de problemas, programación.
-- **Lenguajes de Programación:** Python, R, Java, C++.
 - **Ciencia de Datos:** Manipulación de datos, visualización, aprendizaje automático.
 
 ## Intereses
 - Explorando aplicaciones de las matemáticas en la informática y la ciencia de datos.
 - Desarrollo de algoritmos y soluciones eficientes.
-- Participando en proyectos colaborativos y desafiantes.
+- Participación en proyectos colaborativos y desafiantes.
 
 ## Proyectos Destacados
-- **Nombre del Proyecto 1:** Descripción breve del proyecto y logros.
-- **Nombre del Proyecto 2:** Descripción breve del proyecto y logros.
-- **Nombre del Proyecto 3:** Descripción breve del proyecto y logros.
+
+| Preview | About |
+|---------|-------|
+| <p align="center"><img src="https://github.com/JavierAM01/Machine-Learning-in-Games/blob/main/images/ai/flappybird.gif" height="250" widht="140" /></p> | **Machine Learning in Games:** La biblioteca de creación de juegos que presento se enfoca en algoritmos de aprendizaje automático para potenciar tus proyectos. Con herramientas matemáticas avanzadas basadas en inteligencia artificial, podrás mejorar la jugabilidad, la toma de decisiones y la inteligencia de los personajes en tus juegos. ¡Descubre cómo integrar técnicas de aprendizaje automático para llevar tus juegos al siguiente nivel! <p align="center"><a href="https://github.com/JavierAM01/Machine-Learning-in-Games"> ver detalles </a> </p> |
+| <p align="center"><img src="https://github.com/JavierAM01/SQL-database/blob/main/images/bd.jpg" height="250" width="250"/></p> | **Base de Datos con SQL:** Este repositorio alberga una base de datos, la cual ofrece una estructura optimizada para consultas eficientes y un sistema centralizado para gestionar y monitorear el progreso de los alumnos. La base de datos ha sido diseñada siguiendo las prácticas de modelado relacional y utiliza consultas SQL para interactuar con los datos almacenados. <p align="center"><a href="https://github.com/JavierAM01/SQL-database"> ver detalles </a> </p> |
+| <img src="https://github.com/JavierAM01/Deformacion-Continua-de-la-Esfera/blob/main/images/difeomorfismo_6.gif" height="250" width="300"/> | **Deformación continua de la esfera:** En este repositorio, exploraremos la deformación continua de la esfera y la proyección estereográfica desde una perspectiva matemática. Adentrándonos en los conceptos del difeomorfismo, estudiaremos la transformación suave y biyectiva de la esfera en el plano, analizando en detalle las propiedades geométricas y topológicas involucradas en este proceso. Utilizando técnicas de visualización, plasmaremos los resultados en gráficos, permitiéndonos apreciar de manera tangible los efectos de la deformación y la proyección estereográfica. <p align="center"><a href="https://github.com/JavierAM01/Deformacion-Continua-de-la-Esfera"> ver detalles </a> </p> |
+| <img src="https://github.com/JavierAM01/Cruzar-puente-Multiprocessing/blob/main/images/hist.gif" height="250" width="300"/> | **Cruce de un puente bidireccional:** En este repositorio, te adentrarás en el mundo de la sincronización de procesos y la resolución de secciones críticas mediante el uso de semáforos. Exploraremos la implementación de un puente bidireccional donde solo se permite el paso de un tipo de transeúnte a la vez, evitando inanición y conflictos en el tráfico. Utilizando la potente librería de multiprocesamiento "multiprocessing", aprenderemos a gestionar de manera eficiente las secciones críticas y garantizar una comunicación fluida entre los procesos. <p align="center"><a href="https://github.com/JavierAM01/Cruzar-puente-Multiprocessing"> ver detalles </a> </p> |
+| <img src="https://github.com/JavierAM01/Transformacion-Isometrica-Afin/blob/main/images/figura_3d_2.gif" height="250" width="300"/>  | **Transformación isométrica afín:** En este repositorio, nos cruzaremos con las rotaciones en el espacio tridimensional. A través de una serie de ejemplos prácticos, explorarás cómo las figuras 3D pueden transformarse mediante rotaciones isométricas. Estos ejemplos te permitirán comprender cómo las rotaciones afectan la orientación y posición de los objetos en el espacio, brindándote una perspectiva más clara de las transformaciones geométricas en un entorno tridimensional. |
+
+
+
+
 
 ## Colaboración
 - Estoy abierto/a a colaborar en proyectos interesantes relacionados con matemáticas, ciencia de datos y programación.
 - Si estás interesado/a en colaborar o tienes alguna propuesta, no dudes en contactarme.
 
 ¡Gracias por visitar mi perfil y espero poder conectarnos y colaborar en el apasionante mundo de la ciencia y la tecnología!
-
-
-## Apuntes...
-
-
-**Theme vue-dark:**
-
-<div>
-  <img style="float:left; margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Javier's github stats" />      
-  <img style="float:right; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=vue-dark&hide_border=true" />
-</div>
-
-
-**Theme gotham:**
-
-<div>
-  <img style="float:left; margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=JavierAM01&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Javier's github stats" />      
-  <img style="float:right; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAM01&layout=compact&theme=gotham&hide_border=true" />
-</div>
-
-### Otros 
-
-<a href="https://www.instagram.com">
-  <img align="left" alt="Javier's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg">
-  <img align="left" alt="Javier's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com">
-  <img align="left" alt="Javier's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com">
-  <img align="left" alt="Javier's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-### LENGUAGES AND TOOLS: 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 
 
 
