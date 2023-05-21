@@ -34,8 +34,8 @@
 
 
 ## Colaboración
-- Estoy abierto/a a colaborar en proyectos interesantes relacionados con matemáticas, ciencia de datos y programación.
-- Si estás interesado/a en colaborar o tienes alguna propuesta, no dudes en contactarme.
+- Estoy abierto a colaborar en proyectos interesantes relacionados con matemáticas, ciencia de datos y programación.
+- Si estás interesado en colaborar o tienes alguna propuesta, no dudes en contactarme.
 
 ¡Gracias por visitar mi perfil y espero poder conectarnos y colaborar en el apasionante mundo de la ciencia y la tecnología!
 
