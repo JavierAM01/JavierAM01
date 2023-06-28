@@ -10,7 +10,12 @@
 
 ## Lenguajes
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,git,cpp,c,matlab,haskell)](https://github.com/JavierAM01)
+[![My Skills](https://skills.thijs.gg/icons?i=py,cpp,c,matlab,haskell)](https://github.com/JavierAM01)
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,grafana,prometheus)](https://github.com/JavierAM01)
+
+
+
 
 ## Habilidades
 - **Habilidades:** Análisis de datos, resolución de problemas, programación.
