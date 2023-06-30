@@ -4,6 +4,7 @@
 
 ## Sobre mí
 
+- Científico de datos en prácticas. 
 - Estudiante de matemáticas en la UCM.
 - Apasionado por las matemáticas, la computación y la ciencia de datos.
 - Buscando oportunidades emocionantes para aplicar mi pasión por la programación y el análisis de datos.
