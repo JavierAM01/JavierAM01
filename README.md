@@ -1,6 +1,6 @@
 # ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
 
-  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="images/code.gif?raw=true" width="500" height="320" />
 
 ## Sobre mí
 
@@ -27,6 +27,7 @@
 - Participación en proyectos colaborativos y desafiantes.
 
 ## Proyectos Destacados
+
 
 | Preview | About |
 |---------|-------|
