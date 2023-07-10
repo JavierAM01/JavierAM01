@@ -1,4 +1,4 @@
-# Hello, welcome to my GitHub profile! 👋
+# Hi, welcome to my GitHub profile! 👋
 
   <img align="right" alt="GIF" src="images/code.gif?raw=true" width="500" height="320" />
 
