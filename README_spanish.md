@@ -1,7 +1,4 @@
 
-To see my profile in english click [here](./README_ENGLISH.md).
-
-
 # ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
 
   <img align="right" alt="GIF" src="images/code.gif?raw=true" width="500" height="320" />
