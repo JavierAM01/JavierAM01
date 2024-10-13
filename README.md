@@ -7,8 +7,8 @@ To see my profile in spanish click [here](./README_spanish.md).
 
 ## About Me
 
-- Data science intern.
-- Mathematics student at UCM.
+- Data Science student at CMU, PA.
+- Major in Mathematics at UCM, Madrid.
 - Passionate about mathematics, computing, and data science.
 - Seeking exciting opportunities to apply my passion for programming and data analysis.
 
