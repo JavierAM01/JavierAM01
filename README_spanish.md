@@ -5,8 +5,8 @@
 
 ## Sobre mí
 
-- Científico de datos en prácticas. 
-- Estudiante de matemáticas en la UCM.
+- Estudiante de Ciencia de Datos en Carnegie Mellon University, PA.
+- Graduado en matemáticas en la Universidad Complutense de Madrid, Madrid.
 - Apasionado por las matemáticas, la computación y la ciencia de datos.
 - Buscando oportunidades emocionantes para aplicar mi pasión por la programación y el análisis de datos.
 
